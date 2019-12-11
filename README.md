@@ -1,2 +1,3 @@
-# cursoTATProtractor
-Curso do Talking About Testing Refatorado 
+# Curso Talking About Testing - Protractor
+
+Aplicacão web exemplo para o curso de arquitetura de testes com Protractor da Escola TAT.
