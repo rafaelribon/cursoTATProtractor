@@ -25,7 +25,7 @@
     "eslint": "^4.9.0",
     "express": "^4.17.1",
     "express-handlebars": "^3.0.0",
-    "mongoose": "^4.11.13",
+    "mongoose": "^5.8.0",
     "morgan": "^1.9.1",
     "npm-check-updates": "^3.2.2"
   },
